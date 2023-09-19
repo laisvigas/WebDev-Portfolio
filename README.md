@@ -4,8 +4,8 @@
 Bootstrap-Projects
 * project-1:
 Regenerative Agriculture Website 
-- https://laisvigas.github.io/WebDev-Portfolio/Bootstrap-Projects/project-1/
+https://laisvigas.github.io/WebDev-Portfolio/Bootstrap-Projects/project-1/
 
 * project-2:
 SeaFood King Online Restaurant Menu + Reviews 
-- https://laisvigas.github.io/WebDev-Portfolio/Bootstrap-Projects/project-2/
+https://laisvigas.github.io/WebDev-Portfolio/Bootstrap-Projects/project-2/
